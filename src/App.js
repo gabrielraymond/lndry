@@ -7,6 +7,7 @@ import About from "./components/pages/About";
 import Services from "./components/pages/Services";
 import Pricing from "./components/pages/Pricing";
 import Contact from "./components/pages/Contact";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path="/lndry/pricing" component={Pricing} />
         <Route path="/lndry/contact" component={Contact} />
       </Switch>
+      <Footer />
     </Router>
   );
 }

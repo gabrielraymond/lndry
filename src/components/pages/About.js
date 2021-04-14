@@ -6,7 +6,7 @@ import HeroSection from '../HeroSection';
 function About() {
     return (
         <>
-            <HeroSection {...objDataOne[0]}  bgClr="#F4D160" imgStart="start"/>
+            <HeroSection {...objDataOne[0]}  bgClr="#F4D160" imgStart="start" textClr="black" />
             <ContactSection />
         </>
     )

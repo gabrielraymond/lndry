@@ -238,6 +238,31 @@ footer{
     text-align: center;
 }
 
+@media all and (max-width: 1200px){
+    .navbar-logo{
+        margin: 0 5%;
+        font-size: 32px;
+    }
+
+    .nav-menu{
+        margin-right: 5%;
+    }
+
+    .wrapper {
+        width: 100%;
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    .home .hero-image img{
+        width: 110%;
+    }
+
+    .hero-image img{
+        width: 100%;
+    }
+}
+
 @media all and (max-width: 960px){
 
     /* Navbar */
@@ -328,7 +353,7 @@ footer{
         width: 80%;
     }
 
-    /* About */
+    /* About & Services */
     
     .about .hero-image , .services .hero-image{
         display: none;
@@ -377,10 +402,6 @@ footer{
         flex-direction: column;
         justify-content: center;
     }
-
-    /* Services */
-
-    
 
     /* Contact */
 

@@ -27,7 +27,6 @@ function Home() {
             <hr style={{width:"50%", margin:"0 auto"}}/>
             <PriceSection />
             <ContactSection />
-            <Footer />
         </>
     )
 }

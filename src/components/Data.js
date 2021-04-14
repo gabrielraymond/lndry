@@ -18,6 +18,26 @@ export const objDataOne = [
         imgStart: "",
         bgClr: "#fff",
         headingClr: "#000"
+    },
+    {
+        id: 3,
+        heading1: "PRICE WILL YOU LOVE",
+        heading3: "",
+        text: "Friendly prices that are tailored to the quality obtained",
+        imageUrl: "",
+        imgStart: "",
+        bgClr: "#fff",
+        headingClr: "#fff"
+    },
+    {
+        id: 4,
+        heading1: "CONTACT US",
+        heading3: "",
+        text: "",
+        imageUrl: "",
+        imgStart: "",
+        bgClr: "#fff",
+        headingClr: "#fff"
     }
 ]
 
