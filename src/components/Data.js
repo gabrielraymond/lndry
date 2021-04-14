@@ -4,7 +4,7 @@ export const objDataOne = [
         heading1: "ABOUT US",
         heading3: "Something you should know",
         text: "We are a modern innovative Textile Services Company, equipped to support the hospitality, commercial, education and industrial communities of our areas.",
-        imageUrl: "lndry/images/urban-846 1.svg",
+        imageUrl: "images/urban-846 1.svg",
         imgStart: "start",
         bgClr: "#28527A",
         headingClr: "#fff"
@@ -14,7 +14,7 @@ export const objDataOne = [
         heading1: "WE ARE PASSIONATE ABOUT LAUNDRY",
         heading3: "Service you will love",
         text: "We are professionals inthe laundry and dry cleaning business, which means we always stay up to date on hte latest technologies, cleaning methods, and solutions for dealing with stains or delicate fabrics.",
-        imageUrl: "lndry/images/urban-courier-delivery 1.svg",
+        imageUrl: "images/urban-courier-delivery 1.svg",
         imgStart: "",
         bgClr: "#fff",
         headingClr: "#000"
